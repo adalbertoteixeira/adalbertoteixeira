@@ -1,7 +1,3 @@
-# drawings and code
-
-> I realized the world was missing yet another developer blog, so I decided to write it: [drawings-and-code.eu](https://drawings-and-code.eu/)
-
 ## About me
 
 Full stack development lead with experience across client-side, server-side and infrastructure technologies, mainly in JavaScript/TypeScript (Node.js, Nest.js, React, Svelte), working on small to large applications and pipelines backed by Postgres, Elasticsearch, Redis, Docker, Google Cloud and AWS, deployed with Terraform and GitHub Actions.
